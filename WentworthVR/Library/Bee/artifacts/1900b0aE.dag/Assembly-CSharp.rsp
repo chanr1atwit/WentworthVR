@@ -343,6 +343,7 @@
 "Assets/School_KongShi/Scripts/Interactable/Interactable.cs"
 "Assets/School_KongShi/Scripts/PlayerCamera.cs"
 "Assets/School_KongShi/Scripts/PlayerController.cs"
+"Assets/Scripts/FirstPerson.cs"
 -langversion:9.0
 
 /deterministic
